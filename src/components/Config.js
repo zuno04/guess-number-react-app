@@ -14,7 +14,7 @@ const Config = ({ lower, upper, dispatch }) => {
 
   return (
     <div className="setting-bloc">
-      <h1>Game Config</h1>
+      <h1>Game Configs</h1>
 
       <div className="lower">
         <label htmlFor="lower">Lower bound: </label>

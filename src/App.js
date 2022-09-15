@@ -30,7 +30,7 @@ export default function App() {
           );
         }}
       </Consumer>
-      <div>
+      <div className="setting-group">
         <button
           className="config btn-conf"
           onClick={() => setVisible(!visible)}
