@@ -2,6 +2,10 @@
   margin-top: 10px;
 }
 
+.lower {
+  margin-top: 10px;
+}
+
 .input-conf {
   padding: 6px 0;
   text-align: center;
@@ -11,7 +15,7 @@
   background-color: rgb(199, 190, 184);
   max-width: fit-content;
   padding: 12px 20px;
-  margin-top: 10px;
+  margin: 10px 10px;
 }
 
 .btn-reset {
