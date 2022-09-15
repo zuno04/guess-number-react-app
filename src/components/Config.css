@@ -1,0 +1,24 @@
+.upper {
+  margin-top: 10px;
+}
+
+.input-conf {
+  padding: 6px 0;
+  text-align: center;
+}
+
+.setting-bloc {
+  background-color: rgb(199, 190, 184);
+  max-width: fit-content;
+  padding: 12px 20px;
+  margin-top: 10px;
+}
+
+.btn-reset {
+  margin-top: 15px;
+  background-color: maroon;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 6px 8px;
+}

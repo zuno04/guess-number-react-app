@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.config {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.config > span {
+  margin-left: 10px;
+}
+
+.btn {
+  margin-left: 5px;
+  padding: 10px 6px;
+}
+
+.btn-conf {
+  /* background: chocolate;
+  color: #fff; */
+  cursor: pointer;
+}
+
+.btn-prime {
+  background: rgb(10, 64, 126);
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}

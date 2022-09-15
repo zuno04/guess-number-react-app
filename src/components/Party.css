@@ -1,0 +1,38 @@
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #2c3e50;
+  justify-content: center;
+}
+
+.nav {
+  color: #fff;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  padding-top: 10px;
+}
+
+.display-section {
+  /* border: 1px dashed; */
+  /* width: fit-content; */
+}
+
+.input-group {
+  margin-top: 20px;
+}
+
+.input {
+  padding: 10px 0;
+  text-align: center;
+}
+
+.input-group > button {
+  margin-left: 10px;
+}
